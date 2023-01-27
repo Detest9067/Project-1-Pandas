@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 data/attacks.csv
+data/attack_clean.csv
