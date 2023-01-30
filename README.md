@@ -30,12 +30,10 @@ In this first inquiry, we recieved conclusive results, albeit with some caveats.
 
 Therefore, our conclusions about the nature of fatal shark attacks before 1980 should be taken with a grain of salt. That being said, the data is clear: all of the shark attacks recorded before 1920(in our dataset) were fatal, with a signficant portion of the attacks before 1980 also being fatal (but not all)
 
-![Alt text](data/year_plot.png)
 <br>
 In the violinplot above, we can see that there are NO non-fatal attacks prior to roughlt 1930 (that were recorded). We can also see that there is a significant increase in (reported) attacks overall after 1930, with non-fatal making up the majority of the newer reported attacks
 <br>
 
-![Alt text](data/year_swarm.png)
 <br>
 The swarm chat we see here provides a little bit more detail about the ratio of fatal shark attacks per year. Here we can see that 1940 is really the cutoff date for "fatal-only" shark attacks.
 
@@ -45,11 +43,9 @@ The swarm chat we see here provides a little bit more detail about the ratio of 
 This inquiry was probably the most conclusive of all my 4 hypotheses. 
 <br>
 
-![Alt text](data/hemisphere_heatmap.png)
 
 In this heatmap, we can see very clearly that there is a huge difference is total number of fatal shark attacks per hemisphere, with the southern hemisphere being by far more life-threatening. 
 
-![Alt text](data/hemisphere_bar.png)
 
 We can also see that there is a significant difference in overall total attacks; with the Northern hemisphere being largely safer than the South when we look at non-fatal attacks
 
@@ -57,13 +53,13 @@ We can also see that there is a significant difference in overall total attacks;
 # Shark attacks on the West vs East Coast of the USA
 
 My intitial thought was that West Coast sharks would be as mellow as their land locked neighbors in California and Oregon. However, the numbers proved that my initial expectations were far from correct:
-![Alt text](data/us_attack_heatmap.png)
+
 
 In fact, we can very clearly see two things:
 1. There is no difference in fatal shark attacks when we look at both coasts
 2. West Coast sharks attack more frequent overall, meaning that while you're more likely to get attacked on the west coast, you're less likely to die because of it
 
-![Alt text](data/us_attack_bar.png)
+
 
 As we can see in this graph, the West Coast represents a much larger proportion of overall shark attacks in the US. From this data we can also see that the ratio of fatal:non-fatal attacks is *WORSE* in the East, meaning a East Coast shark is more likely to kill you. (this kind of proves my theory, but not really)
 
@@ -71,7 +67,6 @@ As we can see in this graph, the West Coast represents a much larger proportion 
 
 We already know that the sharks in the Southern hemisphere are way more likely to kill you. It stands to reason that sharks from Australia (also known as the country where everything wants to kill you) are more likely to be involved in fatal attacks. And the survey says....
 
-![Alt text](data/dangerous_waters.png)
 
 The answer should come as no surprise: If you're a human and you live in Australia....leave. Interestingly, the United States has a much higher frequency of shark attacks, but the sharks take pity on American swimmers at a much higher rate than Australian sharks. 
 
