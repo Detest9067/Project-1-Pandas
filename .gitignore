@@ -128,5 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+data/
 data/attacks.csv
 data/attack_clean.csv
+data/attack_by_year.csv
+data/attack_by_hemisphere.csv
+data/us_attacks.csv
